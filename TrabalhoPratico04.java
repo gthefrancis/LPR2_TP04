@@ -1,4 +1,5 @@
-// 
+// Guilherme Bertero CB3037126
+// Guilherme Francisco CB3037461
 
 import java.sql.Connection;
 import java.sql.DriverManager;
